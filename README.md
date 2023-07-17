@@ -1,3 +1,5 @@
-## Resolução do Desafio da Dio.
+## Resolução dos Desafio da Formação Java Developer.
 
-[Link do Desafio Aqui](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+[Desafio - Conta Banco](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+
+[Desafio - Controle de Fuxo](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
