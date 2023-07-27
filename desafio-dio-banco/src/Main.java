@@ -14,12 +14,6 @@ public class Main {
 
         cc.imprimirExtrato();
         poupanca.imprimirExtrato();
-
-        System.out.println("\n\n");
-        Cliente cliente1 = new Cliente();
-        cliente1.setNome("Murilo");
-        Conta c2 = new ContaCorrente(cliente1);
-
     }
 
 }
