@@ -8,4 +8,4 @@
 
 [Desafio - Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/falvojr/lab-banco-digital-oo/tree/master)
 
-[Desenvolvimento Avançado em Java](https://github.com/jpbaterabsb/java-avancado)
+[Desenvolvimento Avançado em Java - Lambda ](https://github.com/jpbaterabsb/java-avancado)
