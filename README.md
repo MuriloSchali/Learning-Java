@@ -9,3 +9,5 @@
 [Desafio - Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/falvojr/lab-banco-digital-oo/tree/master)
 
 [Desenvolvimento Avançado em Java - Lambda ](https://github.com/jpbaterabsb/java-avancado)
+
+[Desafio - Classificador de Herói](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)

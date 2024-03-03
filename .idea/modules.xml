@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Learning-Java.iml" filepath="$PROJECT_DIR$/Learning-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-classificador-heroi/desafio-classificador-heroi.iml" filepath="$PROJECT_DIR$/desafio-classificador-heroi/desafio-classificador-heroi.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-conta-banco/desafio-conta-banco.iml" filepath="$PROJECT_DIR$/desafio-conta-banco/desafio-conta-banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-dio-banco/desafio-dio-banco.iml" filepath="$PROJECT_DIR$/desafio-dio-banco/desafio-dio-banco.iml" />
